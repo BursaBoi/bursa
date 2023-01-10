@@ -1,2 +1,0 @@
-# bursa
-Harjoitus (training)
